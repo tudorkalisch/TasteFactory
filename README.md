@@ -12,4 +12,6 @@ with the JSON from the AddRecipeJSON.
 
 This will be used on the web project. The flow that we are using right now is getting recommended ingredients by type or type and calories. Check Ingredient in model folder.
 
+There is also a Login/Register feature. Also, I made some extra CRUD requests if they are needed in the future.
+
 If you need some help setting it up or you don't understand some stuff, reach out.
