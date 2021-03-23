@@ -1,5 +1,5 @@
 # TasteFactory
-This is a backend project designed to handle recipes. 
+This is a backend project designed to handle recipes. Hope it helps! 
 
 # SETUP
 Install ProstgreSQL and IntelliJ. You need to start the Postre server before running the application and you need to create a database. I've used the name TasteFactory, but you can change it to whatever you want, just remember to change it in the application.json also.
