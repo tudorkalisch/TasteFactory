@@ -1,0 +1,1808 @@
+[
+    {
+        "name": "Potato",
+        "type": "Vegetable",
+        "serving": 214,
+        "calories": 165,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Baked Potato",
+        "type": "Vegetable",
+        "serving": 173,
+        "calories": 161,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Croquettes",
+        "type": "Vegetable",
+        "serving": 408,
+        "calories": 653,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Dumplings",
+        "type": "Vegetable",
+        "serving": 40,
+        "calories": 50,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Frech Fries",
+        "type": "Vegetable",
+        "serving": 117,
+        "calories": 365,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Gnocchi",
+        "type": "Vegetable",
+        "serving": 118,
+        "calories": 250,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Japanese Sweet Patatoes",
+        "type": "Vegetable",
+        "serving": 130,
+        "calories": 110,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mashed Patatoes",
+        "type": "Vegetable",
+        "serving": 242,
+        "calories": 215,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Potato Salad",
+        "type": "Vegetable",
+        "serving": 250,
+        "calories": 358,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Potato Wedges",
+        "type": "Vegetable",
+        "serving": 100,
+        "calories": 123,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Red Potatoes",
+        "type": "Vegetable",
+        "serving": 173,
+        "calories": 154,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Roast Potatoes",
+        "type": "Vegetable",
+        "serving": 136,
+        "calories": 121,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Sweet Potato",
+        "type": "Vegetable",
+        "serving": 114,
+        "calories": 105,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Almond Milk",
+        "type": "Vegetable",
+        "serving": 235,
+        "calories": 40,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Buttermilk",
+        "type": "Dairy",
+        "serving": 254,
+        "calories": 157,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Coconut Milk",
+        "type": "Vegetable",
+        "serving": 240,
+        "calories": 552,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Condensed Milk",
+        "type": "Dairy",
+        "serving": 306,
+        "calories": 982,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Cottage Cheese",
+        "type": "Dairy",
+        "serving": 210,
+        "calories": 206,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cream",
+        "type": "Dairy",
+        "serving": 15,
+        "calories": 36,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Goat Milk",
+        "type": "Dairy",
+        "serving": 244,
+        "calories": 168,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Milk",
+        "type": "Dairy",
+        "serving": 244,
+        "calories": 149,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Plain Yogurt",
+        "type": "Dairy",
+        "serving": 227,
+        "calories": 138,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Powdered Milk",
+        "type": "Dairy",
+        "serving": 68,
+        "calories": 337,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Rice Milk",
+        "type": "Vegetable",
+        "serving": 245,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Sour Cream",
+        "type": "Dairy",
+        "serving": 12,
+        "calories": 22,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Soy Milk",
+        "type": "Vegetable",
+        "serving": 243,
+        "calories": 109,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Yogurt",
+        "type": "Dairy",
+        "serving": 227,
+        "calories": 138,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Artichoke",
+        "type": "Vegetable",
+        "serving": 128,
+        "calories": 60,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Asparagus",
+        "type": "Vegetable",
+        "serving": 12,
+        "calories": 2,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Beetroot",
+        "type": "Vegetable",
+        "serving": 82,
+        "calories": 35,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Bell Pepper",
+        "type": "Vegetable",
+        "serving": 73,
+        "calories": 15,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Black Olives",
+        "type": "Vegetable",
+        "serving": 4,
+        "calories": 2,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Broccoli",
+        "type": "Vegetable",
+        "serving": 300,
+        "calories": 100,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Brussels Sprout",
+        "type": "Vegetable",
+        "serving": 19,
+        "calories": 8,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cabbage",
+        "type": "Vegetable",
+        "serving": 813,
+        "calories": 227,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Carrot",
+        "type": "Vegetable",
+        "serving": 61,
+        "calories": 25,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cauliflower",
+        "type": "Vegetable",
+        "serving": 13,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Celery",
+        "type": "Vegetable",
+        "serving": 40,
+        "calories": 6,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cherry Tomato",
+        "type": "Vegetable",
+        "serving": 20,
+        "calories": 20,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chives",
+        "type": "Vegetable",
+        "serving": 3,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Corn",
+        "type": "Vegetable",
+        "serving": 154,
+        "calories": 562,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Spinach",
+        "type": "Vegetable",
+        "serving": 200,
+        "calories": 148,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cucumber",
+        "type": "Vegetable",
+        "serving": 410,
+        "calories": 66,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Eggplant",
+        "type": "Vegetable",
+        "serving": 458,
+        "calories": 115,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Garlic",
+        "type": "Vegetable",
+        "serving": 3,
+        "calories": 4,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Green Beans",
+        "type": "Vegetable",
+        "serving": 110,
+        "calories": 34,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Green Onion",
+        "type": "Vegetable",
+        "serving": 15,
+        "calories": 7,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Kale",
+        "type": "Vegetable",
+        "serving": 67,
+        "calories": 33,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Leek",
+        "type": "Vegetable",
+        "serving": 89,
+        "calories": 54,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Lettuce",
+        "type": "Vegetable",
+        "serving": 600,
+        "calories": 90,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mushrooms",
+        "type": "Vegetable",
+        "serving": 6,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Nori",
+        "type": "Vegetable",
+        "serving": 3,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Peas",
+        "type": "Vegetable",
+        "serving": 98,
+        "calories": 79,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pepper",
+        "type": "Condiment",
+        "serving": 5,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pumpkin",
+        "type": "Vegetable",
+        "serving": 198,
+        "calories": 51,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Radish",
+        "type": "Vegetable",
+        "serving": 5,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Squash",
+        "type": "Vegetable",
+        "serving": 196,
+        "calories": 88,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tomato",
+        "type": "Vegetable",
+        "serving": 111,
+        "calories": 20,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turnip",
+        "type": "Vegetable",
+        "serving": 122,
+        "calories": 34,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Wasabi",
+        "type": "Vegetable",
+        "serving": 12,
+        "calories": 10,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Zucchini",
+        "type": "Vegetable",
+        "serving": 196,
+        "calories": 33,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Beef",
+        "type": "Meat",
+        "serving": 164,
+        "calories": 407,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Beef Brisket",
+        "type": "Meat",
+        "serving": 1780,
+        "calories": 4308,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Beef Jerky",
+        "type": "Meat",
+        "serving": 20,
+        "calories": 82,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Breast",
+        "type": "Meat",
+        "serving": 200,
+        "calories": 344,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Drumstick",
+        "type": "Meat",
+        "serving": 71,
+        "calories": 131,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Fat",
+        "type": "Meat",
+        "serving": 205,
+        "calories": 1841,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Giblets",
+        "type": "Meat",
+        "serving": 145,
+        "calories": 229,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Leg",
+        "type": "Meat",
+        "serving": 199,
+        "calories": 346,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Liver",
+        "type": "Meat",
+        "serving": 44,
+        "calories": 73,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Tigh",
+        "type": "Meat",
+        "serving": 111,
+        "calories": 254,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chicken Wing",
+        "type": "Meat",
+        "serving": 29,
+        "calories": 77,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Duck",
+        "type": "Meat",
+        "serving": 636,
+        "calories": 2137,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Filet Mignon",
+        "type": "Meat",
+        "serving": 104,
+        "calories": 278,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Ground Beef",
+        "type": "Meat",
+        "serving": 70,
+        "calories": 172,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Ham",
+        "type": "Meat",
+        "serving": 145,
+        "calories": 236,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pork",
+        "type": "Meat",
+        "serving": 185,
+        "calories": 363,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pork Chops",
+        "type": "Meat",
+        "serving": 131,
+        "calories": 257,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pork Loin",
+        "type": "Meat",
+        "serving": 86,
+        "calories": 169,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pork Roast",
+        "type": "Meat",
+        "serving": 836,
+        "calories": 2108,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pork Steak",
+        "type": "Meat",
+        "serving": 264,
+        "calories": 517,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Roast Beef",
+        "type": "Meat",
+        "serving": 515,
+        "calories": 721,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Round Steak",
+        "type": "Meat",
+        "serving": 236,
+        "calories": 430,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Schnitzel",
+        "type": "Meat",
+        "serving": 130,
+        "calories": 203,
+        "measureUnit": "g"
+    },
+    {
+        "name": "T-Bone Steak",
+        "type": "Meat",
+        "serving": 287,
+        "calories": 580,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turkey",
+        "type": "Meat",
+        "serving": 3812,
+        "calories": 7205,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turkey Legs",
+        "type": "Meat",
+        "serving": 546,
+        "calories": 1136,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turkey Steak",
+        "type": "Meat",
+        "serving": 170,
+        "calories": 321,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turkey Wing",
+        "type": "Meat",
+        "serving": 24,
+        "calories": 53,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Barley",
+        "type": "Cereal",
+        "serving": 193,
+        "calories": 716,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Brown Rice",
+        "type": "Cereal",
+        "serving": 195,
+        "calories": 757,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Buckwheat",
+        "type": "Cereal",
+        "serving": 170,
+        "calories": 583,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cornmeal",
+        "type": "Cereal",
+        "serving": 122,
+        "calories": 442,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cornstarch",
+        "type": "Cereal",
+        "serving": 128,
+        "calories": 488,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cracker",
+        "type": "Cereal",
+        "serving": 7,
+        "calories": 35,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Flaxseed",
+        "type": "Cereal",
+        "serving": 168,
+        "calories": 897,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Kamut",
+        "type": "Cereal",
+        "serving": 186,
+        "calories": 627,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Millet",
+        "type": "Cereal",
+        "serving": 128,
+        "calories": 484,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Oat Barn",
+        "type": "Cereal",
+        "serving": 94,
+        "calories": 231,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pearl Barley",
+        "type": "Cereal",
+        "serving": 157,
+        "calories": 553,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Polenta",
+        "type": "Cereal",
+        "serving": 150,
+        "calories": 549,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Quinoa",
+        "type": "Cereal",
+        "serving": 170,
+        "calories": 626,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Rye Barn",
+        "type": "Cereal",
+        "serving": 150,
+        "calories": 420,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Shortbread",
+        "type": "Cereal",
+        "serving": 40,
+        "calories": 139,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Savoury Biscuits",
+        "type": "Cereal",
+        "serving": 19,
+        "calories": 95,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Spelt",
+        "type": "Cereal",
+        "serving": 174,
+        "calories": 588,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tortilla",
+        "type": "Cereal",
+        "serving": 197,
+        "calories": 467,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tortilla Chips",
+        "type": "Cereal",
+        "serving": 32,
+        "calories": 160,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Wheat Barn",
+        "type": "Cereal",
+        "serving": 58,
+        "calories": 125,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Wheat Germ",
+        "type": "Cereal",
+        "serving": 113,
+        "calories": 425,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Wholegrain Oat Barn",
+        "type": "Cereal",
+        "serving": 80,
+        "calories": 300,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Acorn",
+        "type": "Nut",
+        "serving": 29,
+        "calories": 108,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Almonds",
+        "type": "Nut",
+        "serving": 95,
+        "calories": 546,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Beechnut",
+        "type": "Nut",
+        "serving": 29,
+        "calories": 161,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Brazil Nuts",
+        "type": "Nut",
+        "serving": 133,
+        "calories": 872,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cashew",
+        "type": "Nut",
+        "serving": 19,
+        "calories": 53,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chestnut",
+        "type": "Nut",
+        "serving": 145,
+        "calories": 309,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chia Seeds",
+        "type": "Nut",
+        "serving": 29,
+        "calories": 136,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Coconut",
+        "type": "Nut",
+        "serving": 397,
+        "calories": 1405,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cotton Seeds",
+        "type": "Nut",
+        "serving": 149,
+        "calories": 754,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Ginko Nuts",
+        "type": "Nut",
+        "serving": 29,
+        "calories": 51,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Hazelnut",
+        "type": "Nut",
+        "serving": 75,
+        "calories": 471,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Hickory Nuts",
+        "type": "Nut",
+        "serving": 120,
+        "calories": 788,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Lima Beats",
+        "type": "Nut",
+        "serving": 124,
+        "calories": 88,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Macadamia Nuts",
+        "type": "Nut",
+        "serving": 134,
+        "calories": 962,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Peanuts",
+        "type": "Nut",
+        "serving": 146,
+        "calories": 828,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pecan Nuts",
+        "type": "Nut",
+        "serving": 99,
+        "calories": 684,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pinto Beans",
+        "type": "Nut",
+        "serving": 193,
+        "calories": 670,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pistachios",
+        "type": "Nut",
+        "serving": 123,
+        "calories": 691,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Poppy Seeds",
+        "type": "Nut",
+        "serving": 9,
+        "calories": 42,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pumpkin Seeds",
+        "type": "Nut",
+        "serving": 129,
+        "calories": 721,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pumpkin Seeds",
+        "type": "Nut",
+        "serving": 144,
+        "calories": 825,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Smoked Almonds",
+        "type": "Nut",
+        "serving": 95,
+        "calories": 546,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Soy Beans",
+        "type": "Nut",
+        "serving": 256,
+        "calories": 376,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Walnuts",
+        "type": "Nut",
+        "serving": 80,
+        "calories": 744,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Almond Oil",
+        "type": "Oil&Fat",
+        "serving": 80,
+        "calories": 744,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Avocado Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Butter",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 108,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Canola Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Coconut Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Cod Liver Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 140,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Corn Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Cottonseed Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 123,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Flaxseed Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 121,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Goose Fat",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 117,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Grape Seed Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Hemp Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 121,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Herring Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 126,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Lard",
+        "type": "Oil&Fat",
+        "serving": 13,
+        "calories": 117,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Macamdaia Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 115,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Margarine",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 100,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Olive Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 133,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Palm Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 123,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Peanut Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Rice Barn Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Safflower Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 120,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Sardine Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 126,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Sesame Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Soybean Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Sunflower Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Walnut Oil",
+        "type": "Oil&Fat",
+        "serving": 14,
+        "calories": 124,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Anchovy",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 111,
+        "measureUnit": "g"
+    },
+    {
+        "name": "BLuefish",
+        "type": "Fish",
+        "serving": 117,
+        "calories": 186,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Bream",
+        "type": "Fish",
+        "serving": 125,
+        "calories": 168,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Butterfish",
+        "type": "Fish",
+        "serving": 25,
+        "calories": 47,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Calamari",
+        "type": "Fish",
+        "serving": 12,
+        "calories": 21,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Carp",
+        "type": "Fish",
+        "serving": 170,
+        "calories": 275,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Caviar",
+        "type": "Fish",
+        "serving": 16,
+        "calories": 42,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Clam",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 126,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cod",
+        "type": "Fish",
+        "serving": 180,
+        "calories": 189,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Crawfish",
+        "type": "Fish",
+        "serving": 12,
+        "calories": 10,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Crayfish",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 74,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Eel",
+        "type": "Fish",
+        "serving": 29,
+        "calories": 66,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Fish Fingers",
+        "type": "Fish",
+        "serving": 28,
+        "calories": 81,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Fish Sticks",
+        "type": "Fish",
+        "serving": 28,
+        "calories": 81,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Flouder",
+        "type": "Fish",
+        "serving": 127,
+        "calories": 109,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Grouper",
+        "type": "Fish",
+        "serving": 202,
+        "calories": 238,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Hake",
+        "type": "Fish",
+        "serving": 113,
+        "calories": 80,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Halibut",
+        "type": "Fish",
+        "serving": 200,
+        "calories": 222,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Herring",
+        "type": "Fish",
+        "serving": 143,
+        "calories": 291,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Ling",
+        "type": "Fish",
+        "serving": 151,
+        "calories": 165,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Lobster",
+        "type": "Fish",
+        "serving": 150,
+        "calories": 134,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mackerel",
+        "type": "Fish",
+        "serving": 88,
+        "calories": 231,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Milkfish",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 162,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Monkfish",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 82,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mullet",
+        "type": "Fish",
+        "serving": 93,
+        "calories": 140,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mussel",
+        "type": "Fish",
+        "serving": 93,
+        "calories": 140,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Octopus",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 139,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pickled Herring",
+        "type": "Fish",
+        "serving": 140,
+        "calories": 372,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pollack",
+        "type": "Fish",
+        "serving": 151,
+        "calories": 168,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Red Snapper",
+        "type": "Fish",
+        "serving": 170,
+        "calories": 218,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Salmon",
+        "type": "Fish",
+        "serving": 178,
+        "calories": 367,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Sardines",
+        "type": "Fish",
+        "serving": 149,
+        "calories": 310,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Scallops",
+        "type": "Fish",
+        "serving": 10,
+        "calories": 11,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Sea Bass",
+        "type": "Fish",
+        "serving": 124,
+        "calories": 154,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Shark",
+        "type": "Fish",
+        "serving": 85,
+        "calories": 111,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Squid",
+        "type": "Fish",
+        "serving": 29,
+        "calories": 26,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Sturgeon",
+        "type": "Fish",
+        "serving": 136,
+        "calories": 184,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Sushi",
+        "type": "Fish",
+        "serving": 26,
+        "calories": 39,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Swordfish",
+        "type": "Fish",
+        "serving": 106,
+        "calories": 182,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Trout",
+        "type": "Fish",
+        "serving": 62,
+        "calories": 118,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tuna",
+        "type": "Fish",
+        "serving": 154,
+        "calories": 203,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Almond Extract",
+        "type": "Spice",
+        "serving": 10,
+        "calories": 37,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Anise",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 7,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Arrowroot",
+        "type": "Spice",
+        "serving": 33,
+        "calories": 21,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Arugula",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Balsamic Vinegar",
+        "type": "Spice",
+        "serving": 16,
+        "calories": 14,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Basil",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 0,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Black Pepper",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 5,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Black Sesame Seeds",
+        "type": "Spice",
+        "serving": 9,
+        "calories": 52,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Broth",
+        "type": "Spice",
+        "serving": 5,
+        "calories": 5,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Capers",
+        "type": "Spice",
+        "serving": 9,
+        "calories": 2,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cardamom",
+        "type": "Spice",
+        "serving": 6,
+        "calories": 16,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cassava",
+        "type": "Spice",
+        "serving": 101,
+        "calories": 120,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cayenne Pepper",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chard",
+        "type": "Spice",
+        "serving": 48,
+        "calories": 9,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chilli",
+        "type": "Spice",
+        "serving": 8,
+        "calories": 23,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chilli Poweder",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 6,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Chives",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cider Vinegar",
+        "type": "Spice",
+        "serving": 14,
+        "calories": 3,
+        "measureUnit": "ml"
+    },
+    {
+        "name": "Cilantro",
+        "type": "Spice",
+        "serving": 4,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cinnamon",
+        "type": "Spice",
+        "serving": 8,
+        "calories": 17,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cloves",
+        "type": "Spice",
+        "serving": 7,
+        "calories": 16,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Coriander",
+        "type": "Spice",
+        "serving": 4,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cress",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Cumin",
+        "type": "Spice",
+        "serving": 6,
+        "calories": 23,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Curry",
+        "type": "Spice",
+        "serving": 6,
+        "calories": 20,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Dill",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 0,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Garlic",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 4,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Garlic Powder",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 10,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Ginger",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 2,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Horseradish",
+        "type": "Spice",
+        "serving": 15,
+        "calories": 7,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Hot Pepper",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Jalapeneo",
+        "type": "Spice",
+        "serving": 30,
+        "calories": 4,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Juniper",
+        "type": "Spice",
+        "serving": 55,
+        "calories": 25,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Lemon Grass",
+        "type": "Spice",
+        "serving": 5,
+        "calories": 4,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Maggi",
+        "type": "Spice",
+        "serving": 4,
+        "calories": 4,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Marjoram",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Mint",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Nutmeg",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 11,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Onion Powder",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 7,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Orange Peel",
+        "type": "Spice",
+        "serving": 6,
+        "calories": 5,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Oregano",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Paprika",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 6,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Parsley",
+        "type": "Spice",
+        "serving": 4,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Parsnip",
+        "type": "Spice",
+        "serving": 170,
+        "calories": 128,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Pepper",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 5,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Poppy Seeds",
+        "type": "Spice",
+        "serving": 9,
+        "calories": 42,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Red Pepper",
+        "type": "Spice",
+        "serving": 3,
+        "calories": 8,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Rosemary",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 1,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Saffron",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 6,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Salt",
+        "type": "Spice",
+        "serving": 18,
+        "calories": 0,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Serrano Pepper",
+        "type": "Spice",
+        "serving": 6,
+        "calories": 2,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tamarind",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Tarragon",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Thime",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 3,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Turmeric",
+        "type": "Spice",
+        "serving": 2,
+        "calories": 7,
+        "measureUnit": "g"
+    },
+    {
+        "name": "Vanilla Bean",
+        "type": "Spice",
+        "serving": 1,
+        "calories": 2,
+        "measureUnit": "g"
+    }
+]
