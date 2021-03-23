@@ -2,7 +2,7 @@
 This is a backend project designed to handle recipes. Hope it helps! 
 
 # SETUP
-Install ProstgreSQL and IntelliJ. You need to start the Postre server before running the application and you need to create a database. I've used the name TasteFactory, but you can change it to whatever you want, just remember to change it in the application.json also.
+Install ProstgreSQL and IntelliJ. You need to start the Postre server before running the application and you need to create a database. I've used the name TasteFactory, but you can change it to whatever you want, just remember to change it in the application.properties also. Check user and password for Postre. I used the default port for it,
 
 # Details
 I've created a list of ingredients to be able to create recipes and find a way to recommend other ingredients when we find a recipe where we do not have all the ingredients. Copy the content of a the IngredientsJSON and use it as Body for Postman with a POST request to http://localhost:8080/api/v1/ingredient/addAll.
