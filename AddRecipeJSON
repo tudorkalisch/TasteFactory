@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1c43b478-8d9f-49cf-8c66-6c6270301da3",
+        "ingredientList": [
+            {
+                "id": "9fd929a4-9413-4554-b9cd-7fb073c73211",
+                "name": "Pork Roast",
+                "type": "Meat",
+                "serving": 836,
+                "calories": 2108,
+                "measureUnit": "g"
+            },
+            {
+                "id": "7793533a-4b14-4904-9aff-0bd16b87598f",
+                "name": "Pork Steak",
+                "type": "Meat",
+                "serving": 264,
+                "calories": 517,
+                "measureUnit": "g"
+            },
+            {
+                "id": "8e51b9fb-4004-4ecc-80a9-4987acf4427f",
+                "name": "Roast Beef",
+                "type": "Meat",
+                "serving": 515,
+                "calories": 721,
+                "measureUnit": "g"
+            }
+        ],
+        "userId": null,
+        "name": "Lots of meat",
+        "description": "Lost and lots of meat",
+        "timeToPrepare": "12:30 hours"
+    }
+]
