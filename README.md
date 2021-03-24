@@ -16,7 +16,9 @@ There is also a Login/Register feature. Also, I made some extra CRUD requests if
 
 # Future improvements
 1 - We can also add new categorization for ingredients, e.g. Sweet, Savoury, Hot etc.
+
 2 - Create a JWT from the user data instead of using the UUID
+
 3 - Handle Google/Instagram/Facebook login
 
 If you need some help setting it up or you don't understand some stuff, reach out.
